@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://tubidy.play2048game.co/
