@@ -1,7 +1,4 @@
-User-agent: Googlebot
-Disallow: /
-
 User-agent: *
 Allow: /
 
-Sitemap: https://tubidy.play2048game.co/
+Sitemap: https://mp3juicesbiz.github.io/mp3juice/sitemap.xml
